@@ -12,6 +12,12 @@
 
 ---
 
+# 🖼️ Visual Note
+
+Editorial illustrations are used throughout this case study to communicate key concepts and improve readability. They are representative visuals and not product screenshots unless explicitly stated.
+
+---
+
 # Project Overview
 
 | Category | Details |
